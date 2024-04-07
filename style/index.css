@@ -1,0 +1,39 @@
+.main__form {
+  display: flex;
+  align-items: center;
+  gap: 44px;
+}
+
+.label {
+  margin-bottom: 12px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 12px;
+}
+
+.label {
+  margin-bottom: 12px;
+}
+
+.total__cost {
+  margin-top: 32px;
+}
+
+input {
+  margin-bottom: 44px;
+}
+
+button {
+  width: max-content;
+}
+
+ul {
+  display: flex;
+  gap: 12px;
+}

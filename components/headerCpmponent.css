@@ -1,0 +1,26 @@
+.header__php {
+  background-color: rgb(20, 20, 20);
+  font-style: italic;
+  height: max-content;
+  padding: 12px 24px;
+  border-radius: 50%;
+  font-weight: 700;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 28px 0;
+}
+
+.header__list {
+  display: flex;
+  gap: 44px;
+}
+
+.header__php,
+.header__link {
+  font-size: 24px;
+  font-weight: 400;
+}
