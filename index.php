@@ -16,6 +16,7 @@
 
     <main class="container">
         <form method="post">
+            <!-- hello world -->
             <?php
             $products = [
                 ['name' => 'Футболка', 'price' => 20],
